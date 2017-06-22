@@ -246,8 +246,7 @@
 				TargetAttributes = {
 					FD1B67FD1EF7D6DA003D94C1 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 2JDXBDZP8Y;
-						ProvisioningStyle = Automatic;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -481,7 +480,7 @@
 			baseConfigurationReference = 4A396FDA9FA6BB939F9B6BE9 /* Pods-ScrollViewShow.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2JDXBDZP8Y;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ScrollViewShow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = none.ScrollViewShow;
@@ -494,7 +493,7 @@
 			baseConfigurationReference = FF9AC0DD61E35E9B979F127C /* Pods-ScrollViewShow.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 2JDXBDZP8Y;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = ScrollViewShow/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = none.ScrollViewShow;
