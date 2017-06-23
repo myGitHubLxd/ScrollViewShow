@@ -7,6 +7,8 @@ ScrollviewHorView：
 ShowGoodsProtocol：
     它指定了2个方法，getShowGoodsViewSize返回展示商品的Size, showWithTitle:imageUrl:block是展示这个商品。自定义展示商品视图必须实现这2个协议
 就好。
+
+
 eg:
     NSMutableArray *dataArr = @[].mutableCopy;
     for (int i = 1; i <= 21; i++) {
